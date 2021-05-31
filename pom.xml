@@ -7,6 +7,7 @@
     <groupId>com.thegreatapi.demolibrary</groupId>
     <artifactId>test-nexus</artifactId>
     <version>0.0.4</version>
+    <packaging>jar</packaging>
 
     <name>test-nexus</name>
     <description>
